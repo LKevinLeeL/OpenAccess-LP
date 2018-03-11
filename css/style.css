@@ -1,1 +1,5 @@
-.testing h1{color:#bcbcbc;font-size:55px}
+/* These are the conditional mixins for the different syntax for IE10 Flexbox */
+.testing h1 {
+  color: #bcbcbc;
+  font-size: 55px;
+}
